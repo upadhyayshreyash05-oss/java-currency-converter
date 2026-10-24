@@ -1,18 +1,31 @@
-## Getting Started
+💱 Java Currency Converter
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple currency conversion application built using Java.
 
-## Folder Structure
+✨ Features
 
-The workspace contains two folders by default, where:
+- Converts an amount from one currency to another.
+- Uses predefined exchange rates.
+- Demonstrates Java programming fundamentals.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+🛠️ Technologies Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🚀 How to Run
 
-## Dependency Management
+1. Download or clone this repository.
+2. Open the project in a Java IDE.
+3. Run the main Java file.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+📚 What I Learned
+
+- Java basics
+- Variables and calculations
+- Basic programming logic
+
+🔮 Future Improvements
+
+- Add live exchange rates using an API.
+- Support more currencies.
+- Improve input validation.
